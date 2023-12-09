@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216061321779",
+    "project_id": "ims-app-9af1b",
+    "storage_bucket": "ims-app-9af1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216061321779:android:f32265b806c128de403946",
+        "android_client_info": {
+          "package_name": "com.ims.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216061321779-pil4rv5tel407ngtmsjkrodn4oics53d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Icx-vgW3nwqDJxFvqnXrlkteUzrt3_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216061321779-pil4rv5tel407ngtmsjkrodn4oics53d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
